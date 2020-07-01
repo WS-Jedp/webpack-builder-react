@@ -1,0 +1,29 @@
+{
+  "name": "webpack-basic-builder-react",
+  "version": "1.0.0",
+  "description": "A package created with Love and Node for create a basic webpack config file for a react project.",
+  "main": "src/index.js",
+  "bin": {
+    "webpack-basic-builder-react": "global.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WS-Jedp/webpack-builder-react.git"
+  },
+  "keywords": [
+    "Node",
+    "Webpack",
+    "React",
+    "Css",
+    "Sass"
+  ],
+  "author": "Juan Esteban Deossa Pertuz <jedp082@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WS-Jedp/webpack-builder-react/issues"
+  },
+  "homepage": "https://github.com/WS-Jedp/webpack-builder-react#readme"
+}
